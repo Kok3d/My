@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My</string>
+    <!--FaceBook Login start-->
+    <string name="fb_login_protocol_scheme">fbAPP_ID</string>
+    <string name="facebook_app_id">378061592573495</string>
+    <!--FaceBook Login end-->
+</resources>
